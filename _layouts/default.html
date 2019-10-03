@@ -20,12 +20,17 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description }}</p>
 
-        <ul class="downloads">
+        <ul>
           <li><a href="{{ site.photography_url }}">Photography</a></li>
           <li><a href="{{ site.instagram_url }}">Instagram</a></li>
           <li><a href="{{ site.rightcommute_url }}">RightCommute.co.uk</a></li>
+        </ul>
+
+        <h3>Pages</h3>
+        <ul>
+          <li><a href="{{ site.cv | relative_url}}">CV</a></li>
         </ul>
       </header>
       <section>
