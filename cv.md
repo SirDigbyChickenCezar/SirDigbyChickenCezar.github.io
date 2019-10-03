@@ -11,9 +11,9 @@ layout: default
 
 ## Skills
 
-Good knowledge of: Python, Linux, testing, teaching
+Good knowledge of: Python, Linux, unit testing, Jenkins, Photoshop, HTML
 
-Some experience with: C, Django, virtual machines, Javascript, DigitalOcean
+Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS
 
 ## Work Experience 
 
@@ -27,9 +27,11 @@ Some experience with: C, Django, virtual machines, Javascript, DigitalOcean
 
 > My main responsibilities were coding a testing automation tool, and tests for conformance testing of CI Plus,  which is a DRM standard for TV manufacturers. I was also the social sec from soon after joining.  Specific responsibilities included:  
 
-*   Coding the automated test tool, mainly in Python and Django, according to design written by the tech lead. High importance on maintaining the legacy code functionality and large emphasis on unit & integration testing. 
+*   Coding the automated test tool, mainly in **Python** and **Django**. High importance on maintaining the legacy code functionality and large emphasis on unit & integration testing.
 
-*   Interpreting technical specifications written by the client and designing automated conformance tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming  up  with  new  requirements  for  both  as  necessary.    Test  case  automation  code  mainly  written  in **Javascript**, with some **PicoC** scripts to run on the embedded systems. 
+*   Ownership of the release process. The work was done on a singular repository with several concurrent projects, so effective communication between teams and clear documentation was essential.
+
+*   Interpreting technical specifications written by the client and designing automated conformance tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming  up  with  new  requirements  for  both  as  necessary. Test  case  automation  code  mainly  written  in **Javascript**, with some **PicoC** scripts to run on the embedded systems. 
 
 *   Onboarding of new members to the team in the later parts of projects, including mentoring new graduate hires around company standards and procedures.
 
