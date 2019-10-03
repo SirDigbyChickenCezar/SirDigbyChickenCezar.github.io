@@ -60,9 +60,9 @@ Relevant modules:
 
 ### Recent Projects
 
-#   rightcommute.co.uk - A small web-app to help with house hunting. Uses Google Maps APIs to get directions to several addresses at once. Written in Python with Flask, jinja2 templating, MySQL, hosted on DigitalOcean. 
+*    [rightcommute.co.uk](https://www.rightcommute.app) - A small web-app to help with house hunting. Uses Google Maps APIs to get directions to several addresses at once. Written in Python with Flask, jinja2 templating, MySQL, hosted on DigitalOcean. 
 
-#   TULIP - A simple commandline program to convert PowerPoints used in lessons into word doc lesson plans in the layouts required by the school. Saves about 10 minutes of copy-pasting and formatting per lesson. 
+*   TULIP - A simple commandline program to convert PowerPoints used in lessons into word doc lesson plans in the layouts required by the school. Saves about 10 minutes of copy-pasting and formatting per lesson. 
 
 ### Languages
 
