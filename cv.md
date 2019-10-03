@@ -17,9 +17,19 @@ Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Sel
 
 ## Work Experience 
 
-### 2018 - 2019 Science Teacher 
+#### 2018 - 2019 Science Teacher
 
-> I was interested in a teaching career, so I decided to do a Postgraduate course in Secondary Science teaching. My degree was cut 7 weeks short due to circumstances out of my control. The experience taught me up-to-date theories on learning and teaching, which has given me insight into how I learn new skills.
+> Teaching between 10 - 16 hours of Biology/Physics/Chemistry at GCSE and A-level. While not strictly related to
+coding, the experience taught me: 
+
+*   Effective organization and note-keeping. I ended the year with robust Trello boards seamlessly integrated to 
+my Calendar and to-do list apps. This has made my life orders of magnitudes less stressful since. 
+
+*   Modern educational theories and techniques. This has given me insight into my own learning, changing the way 
+I tackle new projects and programming languages.
+
+*   So many more **PowerPoint** tricks I never wanted to know. 
+
 
 ### 2015 - 2018 Eurofins Digital Testing (formerly Digital TV Labs)
 
@@ -45,6 +55,8 @@ Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Sel
 ### 2018 - 2019 Bath Spa University 
 
 #### PGCE - Secondary Science with Physics, degree not completed 
+
+> I was interested in a teaching career, so I decided to do a Postgraduate course in Secondary Science teaching. My degree was cut 7 weeks short due to circumstances out of my control. 
 
 ### 2011 - 2015 University of Southampton 
 
