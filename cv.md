@@ -28,7 +28,10 @@ my Calendar and to-do list apps. This has made my life orders of magnitudes less
 *   Modern educational theories and techniques. This has given me insight into my own learning, changing the way 
 I tackle new projects and programming languages.
 
-*   So many more **PowerPoint** tricks I never wanted to know. 
+*   The value of automation and templating. The profession is rife with systems that require you to enter the same
+data into several different programs with different layouts. This tendency drove me to automate my lesson plan creation. 
+
+*   So many **PowerPoint** tricks I never wanted to know. 
 
 
 ### 2015 - 2018 Eurofins Digital Testing (formerly Digital TV Labs)
