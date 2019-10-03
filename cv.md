@@ -31,7 +31,7 @@ I tackle new projects and programming languages.
 *   The value of automation and templating. The profession is rife with systems that require you to enter the same
 data into several different programs with different layouts. This tendency drove me to automate my lesson plan creation. 
 
-*   So many **PowerPoint** tricks I never wanted to know. 
+*   So many PowerPoint tricks I never wanted to know. 
 
 
 ### 2015 - 2018 Eurofins Digital Testing (formerly Digital TV Labs)
