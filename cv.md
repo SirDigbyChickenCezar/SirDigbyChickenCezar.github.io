@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# /cv.html
+### /cv.html
 
   I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
   in telecommunications, written simulation software for science papers and made a few apps 
@@ -59,7 +59,7 @@ data into several different programs with different layouts. This tendency drove
 
 #### PGCE - Secondary Science with Physics, degree not completed 
 
-> Spurned on by a sudden crisis of conscience, and a desire to try something new, I tried out a career swap into teaching. It was the most stressful, wonderful, terrible, inspirational, demotivational time of my life.
+> Spurned on by a sudden crisis of conscience, and a desire to try something new, I tried out a career swap into science teaching. It was the most stressful, wonderful, terrible, inspirational, demotivational time of my life. I am glad/sad it's over, and would/wouldn't swap it for anything. 
 
 ### 2011 - 2015 University of Southampton 
 
