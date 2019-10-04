@@ -24,10 +24,10 @@ In the end though, I decided on a more traditional, Linked-In compatible photo. 
 
 And after editing: 
 
-![Edited](profile_photo.jpg)
+![Edited](/profile_photo.jpg)
 
 
 
 ### Bonus: 
-This, I decied, had a bit too much personality. But I still really like this image.
+This, I decided, had a bit **too much** personality. But I still really like this image.
 ![Too much personality](/images/IMG_20180328_145207_477.jpg)
