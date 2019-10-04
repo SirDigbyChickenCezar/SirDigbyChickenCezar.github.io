@@ -11,9 +11,9 @@ layout: default
 
 ## Skills
 
-Good knowledge of: Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML
+**Good knowledge of:** Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML
 
-Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC
+**Experience with:** C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC
 
 ## Work Experience 
 
@@ -59,7 +59,7 @@ data into several different programs with different layouts. This tendency drove
 
 #### PGCE - Secondary Science with Physics, degree not completed 
 
-> I was interested in a teaching career, so I decided to do a Postgraduate course in Secondary Science teaching. My degree was cut 7 weeks short due to circumstances out of my control. 
+> Spurned on by a sudden crisis of conscience, and a desire to try something new, I tried out a career swap into teaching. It was the most stressful, wonderful, terrible, inspirational, demotivational time of my life.
 
 ### 2011 - 2015 University of Southampton 
 
