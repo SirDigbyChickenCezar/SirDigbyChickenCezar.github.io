@@ -11,9 +11,9 @@ layout: default
 
 ## Skills
 
-Good knowledge of: Python, Linux, unit testing, Jenkins, Photoshop, HTML
+Good knowledge of: Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML
 
-Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS
+Some experience with: C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC
 
 ## Work Experience 
 
@@ -44,7 +44,7 @@ data into several different programs with different layouts. This tendency drove
 
 *   Ownership of the release process. The work was done on a singular repository with several concurrent projects, so effective communication between teams and clear documentation was essential.
 
-*   Interpreting technical specifications written by the client and designing automated conformance tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming  up  with  new  requirements  for  both  as  necessary. Test  case  automation  code  mainly  written  in **Javascript**, with some **PicoC** scripts to run on the embedded systems. 
+*   Interpreting technical specifications written by the client and designing automated conformance tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming  up  with  new  requirements  for  both  as  necessary. Test  case  automation  code  mainly  written  in **Javascript** and **XML**, with some **PicoC** scripts to run on the embedded systems. 
 
 *   Onboarding of new members to the team in the later parts of projects, including mentoring new graduate hires around company standards and procedures.
 
