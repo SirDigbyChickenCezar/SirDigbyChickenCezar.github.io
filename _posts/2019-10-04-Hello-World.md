@@ -15,19 +15,22 @@ Damn, those bananas look sweet. I also considered a few similar bits, like a neu
 or a photo of a wintery beach on my hometown. 
 
 ![Suspension Bridge](/images/IMG_20180316_220605_836.jpg)
-![Winter Beach](/images/valgeranna_maal.png)
+![Winter Beach](/images/IMG_20151229_121328260_HDR.jpg)
 
 
-In the end though, I decided on a more traditional, Linked-In compatible photo. But since it's my website, I could afford to add a **little** bit of personality to it. So I took a fairly neutral photo, and messed with the colours on it to make it slightly arty. I think the reduced colour pallette works well with the minimalistic site.
+In the end though, I decided on a more traditional, Linked-In compatible photo. But since it's **my website**, I could afford to add a *little* bit of personality to it. So I took a fairly neutral photo, and messed with the colours on it to make it slightly artsy. I think the reduced colour pallette works well with the overall minimalistic feel of the site.
 
 ![Original](/images/subtle_molt.png)
 
-And after editing: 
+And, after editing: 
 
 ![Edited](/profile_photo.jpg)
+
+I think that looks grand. Or at least, good enough. 
+
 
 
 
 ### Bonus: 
-This, I decided, had a bit **too much** personality. But I still really like this image.
+This one, I decided, had a bit **too much** personality. But I still really like this image.
 ![Too much personality](/images/IMG_20180328_145207_477.jpg)

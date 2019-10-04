@@ -12,4 +12,4 @@ layout: default
 
 [Photography](./photography.html)
 
-[Comapny Socials](./illuminati.html)
+[Company Socials](./illuminati.html)
