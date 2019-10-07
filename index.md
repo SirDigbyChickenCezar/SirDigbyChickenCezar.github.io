@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Home
+## [Home](./index.html)
 
 [CV](./cv.html)
 

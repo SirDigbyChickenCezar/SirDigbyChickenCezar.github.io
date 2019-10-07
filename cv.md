@@ -1,84 +1,83 @@
 ---
 layout: default
 ---
-### /cv.html
+[Home](./index.html)/cv.html
+=============
 
-  I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
-  in telecommunications, written simulation software for science papers and made a few apps 
-  in my spare time. 
-  
-  My current goal is to become an expert in web-app development, and improve my front-end design skills.
+lootus.sander@gmail.com
 
-## Skills
 
-**Good knowledge of:** Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML
+*I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
+ in telecommunications requiring rigorous documentation and safety(TODO: change word), and written physics simulation 
+ software for academic purposes(read:un-readable messes that do the job). My side-projects tend to sit somewhere 
+ in-between these two.*
 
-**Experience with:** C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC
+**Good knowledge of:** Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML, VMWare, TortoiseSVN
 
-## Work Experience 
+**Experience with:** C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC, Git
 
-#### 2018 - 2019 Science Teacher
+Work Experience
+---------------
+**2018 - 2019 Science Teacher**
+*Teaching between 10 - 16 hours of Biology/Physics/Chemistry at GCSE and A-level. While not strictly related to
+coding, the experience taught me:*
 
-> Teaching between 10 - 16 hours of Biology/Physics/Chemistry at GCSE and A-level. While not strictly related to
-coding, the experience taught me: 
-
-*   Effective organization and note-keeping. I ended the year with robust Trello boards seamlessly integrated to 
+- Effective organization and note-keeping. I ended the year with robust Trello boards seamlessly integrated to 
 my Calendar and to-do list apps. This has made my life orders of magnitudes less stressful since. 
 
-*   Modern educational theories and techniques. This has given me insight into my own learning, changing the way 
+- Modern educational theories and techniques. This has given me insight into my own learning, changing the way 
 I tackle new projects and programming languages.
 
-*   The value of automation and templating. The profession is rife with systems that require you to enter the same
+- The value of automation and templating. The profession is rife with systems that require you to enter the same
 data into several different programs with different layouts. This tendency drove me to automate my lesson plan creation. 
 
-*   So many PowerPoint tricks I never wanted to know. 
+- So many PowerPoint tricks I never wanted to know. 
 
 
-### 2015 - 2018 Eurofins Digital Testing (formerly Digital TV Labs)
+**2015 - 2018 Eurofins Digital Testing, Software Engineer**
 
-#### Software Engineer
+*The company sells a product called Ligada, which is an automated testing harness and test suite for TV and set-top box manufacturers. I worked on various projects in the company, with teams sized between three 
+and 20. The nature of conformance testing placed high importance on maintaining legacy functionality, and each feature was thoroughly unit and integration tested. My specific responsibilities were:*
 
-> My main responsibilities were coding a testing automation tool, and tests for conformance testing of CI Plus,  which is a DRM standard for TV manufacturers. I was also the social sec from soon after joining.  Specific responsibilities included:  
+- Adding new features to the automated test tool, mainly in **Python** and **Django**. 
 
-*   Coding the automated test tool, mainly in **Python** and **Django**. High importance on maintaining the legacy code functionality and large emphasis on unit & integration testing.
+- Ownership of the release process. Several concurrent projects with separate release dates meant merges had to be clean without unfinished work ending up with clients. I updated documentation practices, overhauled our media folder tree, 
+and added features to the build system to save several hours from each release, and reduced human errors
 
-*   Ownership of the release process. The work was done on a singular repository with several concurrent projects, so effective communication between teams and clear documentation was essential.
+- Interpreting technical specifications written by the client and designing automated tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming up with new requirements for both as necessary. Test case automation code mainly written in **Javascript** and **XML**, with some **PicoC** scripts to run on the embedded systems. 
 
-*   Interpreting technical specifications written by the client and designing automated conformance tests for TVs while considering the limitations of the test harness design, limitations of third party embedded systems, and coming  up  with  new  requirements  for  both  as  necessary. Test  case  automation  code  mainly  written  in **Javascript** and **XML**, with some **PicoC** scripts to run on the embedded systems. 
+- Onboarding of new team members of varying skill to projects, including mentoring new graduate hires around company standards and procedures.
 
-*   Onboarding of new members to the team in the later parts of projects, including mentoring new graduate hires around company standards and procedures.
+- Cooperating with several international third party partners to provide support with our software, and diagnosing bugs from mutual early access programs to speed up development for both parties. 
 
-*   Cooperating with several international third party partners to provide support with our software, and diagnosing bugs from mutual early access programs to speed up development for both parties. 
-
-*    Social sec - control of the year’s social budget for an office of 35 people, and responsible for budgeting and overall organization of casual social events, team building exercises and improving office culture e.g. setting up a communal chess game and various tournaments.
+- Social sec - control of the year’s social budget for an office of 35 people, budgeting and organization of casual social events, team building exercises and improving office culture e.g. setting up a communal chess game and various tournaments.
 
 
-## Education 
+Education
+---------------
 
-### 2018 - 2019 Bath Spa University 
+2018 - 2019 Bath Spa University, Secondary Science with Physics (degree not completed)
 
-#### PGCE - Secondary Science with Physics, degree not completed 
-
-> Spurned on by a sudden crisis of conscience, and a desire to try something new, I tried out a career swap into science teaching. It was the most stressful, wonderful, terrible, inspirational, demotivational time of my life. I am glad/sad it's over, and would/wouldn't swap it for anything. 
-
-### 2011 - 2015 University of Southampton 
-
-#### MPhys Physics, 2:1 honours 
+2011 - 2015 University of Southampton, MPhys Physics, 2:1 honours
 
 Relevant modules: 
 
-*   Numerical Methods (Python) 
+- Simulated annealing and Monte Carlo simulations to study various physical processes, such as the growing of crystals and fractals. Written in **C** and **Python**. 
 
-*   My  3rd  year  programming  projects  involved  simulated  annealing  and  Monte  Carlo  simulations  to  study various physical processes, such as the growing of crystals and fractals. Written in C. 
+- For my Master's project I wrote two particle simulators in Python, validated them against experimental results, and studied the trade-offs between various computational power optimizations and physical accuracy.
 
-*   My Master’s project consisted of writing two particle simulators in Python, validating them against experimental results, and studying their accuracy versus 
+Recent Projects
+---------------
 
-### Recent Projects
+- [**rightcommute.co.uk**] - A small web-app to help with house hunting. Uses Google Maps APIs to get directions to several addresses at once. Written in Python with Flask, jinja2 templating, MySQL, hosted on DigitalOcean. 
 
-*    [rightcommute.co.uk](https://www.rightcommute.app) - A small web-app to help with house hunting. Uses Google Maps APIs to get directions to several addresses at once. Written in Python with Flask, jinja2 templating, MySQL, hosted on DigitalOcean. 
+- **TULIP*- - A simple commandline program to convert PowerPoints used in lessons into word doc lesson plans in the layouts required by the school. Saves about 10 minutes of copy-pasting and formatting per lesson, ~3 hours/week.
 
-*   TULIP - A simple commandline program to convert PowerPoints used in lessons into word doc lesson plans in the layouts required by the school. Saves about 10 minutes of copy-pasting and formatting per lesson. 
+Languages
+----------
+**English**(fluent), **Estonian**(native), **Russian**(basic)
+### Dreams 
 
-### Languages
+* Make a website with Ruby On Rails 
+* Write an app for taking photos of plants, which then automatically generates a timelapse of the plant's growth. 
 
-English(fluent), Estonian(native), Russian(basic)
