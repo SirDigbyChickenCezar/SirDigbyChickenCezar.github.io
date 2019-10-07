@@ -2,10 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html)/cv.html
-
-
-lootus.sander@gmail.com
+## [home](./index.html)/cv.html
 
 
 *I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
