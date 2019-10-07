@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-[Home](./index.html)/cv.html
-=============
+
+## [Home](./index.html)/cv.html
+
 
 lootus.sander@gmail.com
 
 
 *I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
- in telecommunications requiring rigorous documentation and safety(TODO: change word), and written physics simulation 
- software for academic purposes(read:un-readable messes that do the job). My side-projects tend to sit somewhere 
+ in telecommunications requiring rigorous documentation, and written physics simulation 
+ software for academic purposes(read: un-readable messes that do the job). My side-projects tend to sit somewhere 
  in-between these two.*
 
 **Good knowledge of:** Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML, VMWare, TortoiseSVN
