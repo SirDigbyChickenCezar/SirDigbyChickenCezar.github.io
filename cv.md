@@ -12,7 +12,7 @@ layout: default
 
 **Good knowledge of:** Python, Linux, HTML, jinja2, XML, VMWare, Jenkins, testing
 
-**Experience with:** C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC, Git
+**Experience with:** C, Django, virtual machines, Javascript, apache, DigitalOcean, Selenium, CSS, PicoC, Git
 
 Work Experience
 ---------------
