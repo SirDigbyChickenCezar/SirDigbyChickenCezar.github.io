@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [home](./index.html)/cv.html
+## [Home](./index.html)/cv.html
 
 
 *I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
