@@ -8,7 +8,7 @@ I toyed around with the idea of having nothing at all there, and that looks actu
 it's frowned upon to have a photo of yourself on a CV anyway, and this site is essentially an extended resume. 
 
 But I still wanted *something* there, to give the site a bit of personality. Maybe it could be just a pretty image 
-I'd generated to give the place a bit of personality? For the better part of the day, this Blender generate 3D image of 
+I'd generated to give the place a bit of personality? For the better part of the day, this Blender generated 3D image of 
 some glitchy bananas was the number one contender: 
 
 ![Slick bananas](/images/banana_logo.jpg)
