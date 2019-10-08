@@ -7,7 +7,7 @@ layout: default
 
 *I'm a software enthusiast with a history of Physics and teaching. I've worked on some large enterprise projects
  in telecommunications requiring rigorous documentation, and written physics simulation 
- software for academic purposes(read: un-readable messes that do the job). My side-projects tend to sit somewhere 
+ software for academic purposes(read: un-maintainable messes that do the job). My side-projects tend to sit somewhere 
  in-between these two.*
 
 **Good knowledge of:** Python, Linux, HTML, jinja2, XML, VMWare, Jenkins, testing
