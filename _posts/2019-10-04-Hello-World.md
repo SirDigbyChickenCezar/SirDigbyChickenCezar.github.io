@@ -3,8 +3,6 @@ layout: post
 title: "Choosing an appropriate image for sandroid.dev"
 ---
 
-# Profile Photos 
-
 This is a problem that actually took me a whole day - what kind of a photo should be on the top left of sandroid.dev? 
 I toyed around with the idea of having nothing at all there, and that looks actually looks alright. Plus,
 it's frowned upon to have a photo of yourself on a CV anyway, and this site is essentially an extended resume. 
