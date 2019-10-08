@@ -74,6 +74,7 @@ Recent Projects
 Languages
 ----------
 **English**(fluent), **Estonian**(native), **Russian**(basic)
+
 ### Dreams 
 
 * Make a website with Ruby On Rails 

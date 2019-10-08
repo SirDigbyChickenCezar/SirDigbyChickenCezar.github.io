@@ -2,7 +2,8 @@
 layout: default
 ---
 
-### /blog.html
+## [Home](./index.html)/blog.html
+
 
 <ul>
   {% for post in site.posts %}
