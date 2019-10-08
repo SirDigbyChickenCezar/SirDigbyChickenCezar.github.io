@@ -75,8 +75,8 @@ Languages
 ----------
 **English** (fluent), **Estonian** (native), **Russian** (basic)
 
-### Dreams
-
+Dreams
+-------
 * Write something with Ruby to find out if the rumors of it are true.
 * Give Heroku a try. 
 * Write an app for taking photos of plants, which then automatically generates a timelapse of the plant's growth. 
