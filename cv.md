@@ -73,9 +73,11 @@ Recent Projects
 
 Languages
 ----------
-**English**(fluent), **Estonian**(native), **Russian**(basic)
+**English** (fluent), **Estonian** (native), **Russian** (basic)
 
-### Dreams 
+### Dreams
 
-* Make a website with Ruby On Rails.
+* Write something with Ruby to find out if the rumors of it are true.
+* Give Heroku a try. 
 * Write an app for taking photos of plants, which then automatically generates a timelapse of the plant's growth. 
+* Figure out how to exit Vim.
