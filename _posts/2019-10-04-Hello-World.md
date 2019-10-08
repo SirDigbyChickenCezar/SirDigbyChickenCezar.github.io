@@ -52,4 +52,5 @@ I think that looks grand. Or at least, good enough.
 This is an old edit I did when messing about with neural nets, and was tempted to use. 
 
 I decided it had a bit **too much** personality and looks a bit extreme. But I still really like this image.
+
 ![Too much personality](/images/IMG_20180328_145207_477.jpg)
