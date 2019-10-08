@@ -10,7 +10,7 @@ layout: default
  software for academic purposes(read: un-readable messes that do the job). My side-projects tend to sit somewhere 
  in-between these two.*
 
-**Good knowledge of:** Python, Linux, unit testing, Jenkins, Photoshop, HTML, jinja2, XML, VMWare, TortoiseSVN
+**Good knowledge of:** Python, Linux, HTML, jinja2, XML, VMWare, Jenkins, testing
 
 **Experience with:** C, Django, virtual machines, Javascript, DigitalOcean, Selenium, CSS, PicoC, Git
 
