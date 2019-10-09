@@ -79,5 +79,7 @@ Dreams
 -------
 * Write something with Ruby to find out if the rumors of it are true.
 * Give Heroku a try. 
+* Learn Rust and find out why it's SO's most loved language. 
 * Write a little app that acts as a journal/scrapbook for my pet plants.
+* Explore the wonders of purely functional programming with Haskell.
 * Figure out how to exit Vim.
