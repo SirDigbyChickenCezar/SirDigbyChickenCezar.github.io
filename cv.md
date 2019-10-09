@@ -17,7 +17,7 @@ layout: default
 Work Experience
 ---------------
 **2018 - 2019 Science Teacher**
-*Teaching between 10 - 16 hours of Biology/Physics/Chemistry at GCSE and A-level. While not strictly related to
+*Teaching between 10 - 16 hours of Biology/Physics/Chemistry at GCSE and A-level. While a departure from
 coding, the experience taught me:*
 
 - Effective organization and note-keeping. I ended the year with robust Trello boards seamlessly integrated to 
