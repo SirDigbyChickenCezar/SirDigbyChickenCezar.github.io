@@ -46,6 +46,8 @@ and added features to the build system to save several hours from each release, 
 
 - Onboarding of new team members of varying skill to projects, including mentoring new graduate hires around company standards and procedures.
 
+- Generating and modifying video and audio files with **ffmpeg** to generate media with specific parameters to test broadcast/IPTV performance of TVs.
+
 - Cooperating with several international third party partners to provide support with our software, and diagnosing bugs from mutual early access programs to speed up development for both parties. 
 
 - Social sec - control of the year’s social budget for an office of 35 people, budgeting and organization of casual social events, team building exercises and improving office culture e.g. setting up a communal chess game and various tournaments.
