@@ -10,7 +10,3 @@ only the [CV](./cv.html) section is finished, but feel free to click around to s
 [CV](./cv.html)
 
 [Photography](./sandroid-portfolio//photography/landscapes/)
-
-[Blog](./blog.html)
-
-[Company Socials](./socials.html)
