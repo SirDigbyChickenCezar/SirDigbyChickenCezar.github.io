@@ -14,5 +14,5 @@ Flickr has messed with their login systems - use a Yahoo account, use a Flickr a
 result of all of these migrations is my account is no longer accessible to me. The plan now is to curate my own collection, keeping them 
 on Google Drive and Github - there's no way that can go wrong, right? 
 
-Once I find a satisfactory gallery implementation, this page will be updated. 
+Once I find a satisfactory gallery implementation, this page will be updated.
 In the meantime, you can see my old photos on [Flickr](https://www.flickr.com/slootus). 
